@@ -1,0 +1,99 @@
+.item img{
+    width: 40%;
+}
+header{
+    height: 500px;
+}
+.my-button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 50px;
+    background:#21b573;
+    border: none;
+    color: white;
+}
+
+.content{
+    width: 45%;
+    float: left;
+    padding-left: ;
+    background: #f0fff0;
+}
+.content img{
+    width:100%;
+}
+h5{
+    color: red;
+    
+}
+h1{
+    font-size: px;
+    
+}
+span{
+    color: #21b573;
+}
+.item1{
+    height: 300px;
+    text-align: center;
+    float: left;
+    padding-bottom: 100px;
+    padding-top:50px;
+    padding: 0px 40px;
+    
+}
+.item1 img{
+    width: 40%;
+    
+}
+.card-footer{
+    
+}
+.card-footer img{
+    width:7%;
+}
+.small1{
+    float: left;
+}
+.online{
+    margin: auto;
+    color:#413960;
+    text-align: center;
+    padding-bottom: 70px;
+}
+section{
+    padding-bottom: 100px;
+}
+
+.content2 img{
+    width: 30%;
+}
+.item2{
+    margin: auto;
+}
+.right{
+    text-align: center;
+    margin: auto;
+}
+footer{
+    color: white;
+    background:#413960;
+    font-family: poppins;
+    padding-bottom: 10px;
+}
+.element{
+    padding-bottom: 50px;
+    margin-left: 200px;
+}
+.part1{
+    width:30%;
+    float: left;
+}
+.part1 img{
+    width: 100%;
+    margin-top: -50px;
+    padding: 10px;
+}
+.part2{
+    width:70%;
+}
